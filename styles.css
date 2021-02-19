@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 10px;
+  color: black;
+  background-image: url("https://cdn.discordapp.com/attachments/793302938453803008/812204488756035614/circle-wallpaper-fire-alarm-f0a2ddd8da2a71fa8ab929221af69796.png");
+  background-repeat: no-repeat;
+  background-color: #99aab5;
+}
+
+#openingTag {
+  margin: 30vh 0px 0px 0;
+  text-align: center;
+  font-size: 10rem;
+}
