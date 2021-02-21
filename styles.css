@@ -6,7 +6,6 @@
   padding: 0 0 0 0;
   background-color: #2c2f33;
   scroll-behavior: smooth;
-  color: #edf0f1;
 }
 
 /*Nav bar*/
@@ -39,6 +38,7 @@ button {
 
 .logoTitle {
   margin-right: auto;
+  color: gold;
 }
 
 .nav_links {
@@ -70,4 +70,14 @@ button {
 
 button:hover {
   background-color: rgba(0, 136, 169, 0.8);
+}
+
+/*Body Youtube Videos*/
+#gtYoutube movie {
+  display: grid;
+  height: 80vh;
+  width: 100vw;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 10px;
+  justify-content: center;
 }
