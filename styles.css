@@ -80,8 +80,6 @@ button:hover {
   padding-top: 2rem;
   display: flex;
   flex-wrap: wrap;
-  height: 80vh;
-  width: 100vw;
   gap: 20px;
   justify-content: center;
 }
