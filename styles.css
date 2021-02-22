@@ -77,10 +77,11 @@ button:hover {
 
 /*Body Youtube Videos*/
 #gtYoutube movie {
-  display: grid;
+  padding-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
   height: 80vh;
   width: 100vw;
-  grid-template-columns: repeat(8, 1fr);
-  gap: 10px;
+  gap: 20px;
   justify-content: center;
 }
