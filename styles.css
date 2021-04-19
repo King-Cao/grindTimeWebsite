@@ -112,3 +112,8 @@ button:hover {
 #secondPage {
   padding: 15rem 0 0 0;
 }
+
+/*kinda weirdchamp over here but ill take it*/
+iframe {
+  display: inline-block;
+}
